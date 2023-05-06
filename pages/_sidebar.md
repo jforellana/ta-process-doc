@@ -1,7 +1,0 @@
-* [Overview](pages/overview/)
-* [Syllabus](pages/syllabus/)
-* [Canvas](pages/canvas/)
-* [AV](pages/av/)
-* [Prepping](pages/prepping/)
-* [Lunches](pages/lunches/)
-* [Qualtrics](pages/qualtrics/)
