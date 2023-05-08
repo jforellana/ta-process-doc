@@ -1,3 +1,3 @@
-# Headline
+# WELCOME
 
-> An awesome project.
+This is the process doc for the new ta's
