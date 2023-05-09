@@ -31,6 +31,8 @@ Reflection Assignments will have one open-ended question that reads the followin
 
 All assignments will be worth 2 points.
 
+![Attendance Quizzes](img/Canvas1.png)
+
 ### Extra Credit
 
 Extra credit assignments will be dur the last day of classes by midnight. They will have one open-ended question that reads the following: “Listed to the podcast and answer the following questions:
@@ -58,9 +60,13 @@ For instructions on how to restrict file types for assignments click here.
 
 When creating assignments in the Assignments section of class, you will be able to create both assignments and assignment groups. To be able to assign grading weights, you need to create a group for each type of assignment (reflection, attendance, final, extra credit). For instructions on how to create assignment groups and give groups different weights, click here.
 
+![Groups](img/groups.png)
+
 ### Modules
 
 Once Assignment groups have been created, all the assignments need to be organized or grouped according to their due dates or the class they belong to. The name of each module will be: “<\<Date>>: <\<Guest Speaker>>”. Since the names of the guest speakers will most likely be announced on a weekly basis, all the modules will have “TBD” in lieu of the name until it is announced who will come. There will also be a module for extra credit and it will be called “Extra Credit”. For instructions on how to create modules, click here.
+
+![Modules](img/modules.png)
 
 ### Assigning weights to assignment groups
 

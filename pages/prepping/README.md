@@ -2,6 +2,8 @@
 
 The set-up of the room will consist of two or three chairs which will be placed in the front of the room, depending on whether there will be one or two guests on that lecture day. Make the seats look symmetrical with respect to the room. The first middle row of the room will be reserved for faculty and guests. Print reserved signs for those seats and place them on those seats so students do not occupy them. Bring bottled waters for the guests in the first row and for the host and guests. Place them next to their chairs.
 
+![Class Setup](img/prepping.png)
+
 # PREPARING FOR CLASS: PARKING RESERVATIONS
 
 Parking reservations need to be made for Mike Maughan, Ryan Smith, and their guests each week. You can make parking reservations for the Tanner Building through the system in marriott.byu.edu. After submitting the parking reservation, email byumarriottdeansoffice@byu.edu to confirm that the reservation was made, and to make Ryan and Mike’s reservations automatic for every class day for the semester. 
